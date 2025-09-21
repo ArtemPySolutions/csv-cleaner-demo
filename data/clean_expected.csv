@@ -1,0 +1,7 @@
+id,name,email,notes
+1,Alice,alice@example.com,__EMPTY__
+2,Bob,bob@example.com,hello
+3,__EMPTY__,carol@example.com,__EMPTY__
+4,Dana,__EMPTY__,__EMPTY__
+5,Eve,eve@example.com,__EMPTY__
+__EMPTY__,Frank,frank@example.com,note

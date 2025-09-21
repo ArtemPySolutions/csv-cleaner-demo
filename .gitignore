@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual env
+.venv/
+venv/
+
+# Local data & outputs
+reports/
+screenshots/
+data/clean.csv
+data/clean_del.csv
+
+# IDE
+.idea/
+.DS_Store
